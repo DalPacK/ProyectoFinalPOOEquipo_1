@@ -10,6 +10,7 @@ import control.*;
  *
  * @author picar
  */
+/hola a todos
 public class main {
 
     /**
